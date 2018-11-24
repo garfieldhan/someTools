@@ -1,0 +1,2 @@
+<#list text as content>姓名:${content.name}, 年龄:${content.age}, 地址:${content.address}
+</#list>
